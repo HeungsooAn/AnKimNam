@@ -2,4 +2,8 @@ good
 test1
 test2
 
+<<<<<<< HEAD
 master
+=======
+½ÇÇè1
+>>>>>>> ì‹¤í—˜
